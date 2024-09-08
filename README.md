@@ -50,7 +50,7 @@ export default function fetchCardInfo() {
     {
       ...x(),
       cardHolder: {
-        firstName: "John" as string,
+        firstName: "John",
         lastName: "Doe",
       },
     },
